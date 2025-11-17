@@ -125,4 +125,3 @@ https://doi.org/10.5281/zenodo.17602557
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="120">
 </p>
-```
