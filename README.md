@@ -25,7 +25,7 @@
 
 ## 👤 About Me
 
-- 🌱 Learning **Java**, **Cryptography**
+- 🌱 Learning **Java**, **Cryptography**,**DSA**
 - 💬 Ask me about **Bash**, **Networking**
 - 📫 Reach me at **davuluriraghuvamsy@gmail.com**
 
