@@ -44,7 +44,7 @@ A next-gen cybersecurity system that:
 - Prevents attacker learning loops  
 
 📄 **Published Paper (Zenodo DOI):**  
-🔗 https://doi.org/10.5281/zenodo.17602557
+🔗 https://doi.org/10.5281/zenodo.17626122
 
 ---
 
@@ -107,7 +107,7 @@ A next-gen cybersecurity system that:
 If you use **HydraWall** in your research or projects, please cite:
 
 **Davuluri Venkata Raghu Vamsy. (2025). _HydraWall — A Regenerative Multi-Layered Autonomous Cyber Defense Framework_ (Version 1). Zenodo.**  
-https://doi.org/10.5281/zenodo.17602557
+https://doi.org/10.5281/zenodo.17626122
 
 ### BibTeX
 
@@ -118,10 +118,11 @@ bibtex
   year      = {2025},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.17602557},
-  url       = {https://doi.org/10.5281/zenodo.17602557}
+  url       = {https://doi.org/10.5281/zenodo.17626122}
 }
 
 
-<p align="center">
+<p
+  align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="120">
 </p>
